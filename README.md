@@ -65,10 +65,15 @@
 >
 > - [Artículo sobre invernaderos fuera del planeta](https://tecnoagro.com.mx/2022/07/26/invernaderos-para-la-luna-marte-y-otros-planetas/)
 > - [Diseño de plantaciones en la luna](https://www.aenverde.es/ingenio-espanol-para-plantar-el-primer-invernadero-en-la-luna/)
+>
+> ![Referencia](./Resources/Invernadero/ref1.jpg)
+
 
 <br>
 
-**[Arquitectura de datos](https://app.xmind.com/share/GtxsXyOp?xid=YOesyLLW)**
+**[Arquitectura de datos (Prueba vieja)](https://app.xmind.com/share/GtxsXyOp?xid=YOesyLLW)**
+
+**[Arquitectura de datos (Nueva versión)](https://drive.google.com/file/d/17g2YHbO9tuEGWbcMfCWcwmXAD8XiVf8k/view?usp=sharing)**
 
 <br>
 

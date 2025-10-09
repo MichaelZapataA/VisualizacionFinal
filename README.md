@@ -73,11 +73,15 @@
 > ![Referencia](./Resources/Invernadero/ref1.jpg)
 
 
+> _Estudio de herramientas de visualización de datos_
+> 
+> ![Estudio](./Resources/Invernadero/EstudioHerramientasImg.png)
+
 <br>
 
 **[Arquitectura de datos (Prueba vieja)](https://app.xmind.com/share/GtxsXyOp?xid=YOesyLLW)**
 
-**[Arquitectura de datos (Nueva versión)](https://drive.google.com/file/d/17g2YHbO9tuEGWbcMfCWcwmXAD8XiVf8k/view?usp=sharing)**
+**[Arquitectura de datos (Nueva versión)](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&nav=1&title=ArquitecturaInvernadero&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D17g2YHbO9tuEGWbcMfCWcwmXAD8XiVf8k%26export%3Ddownload)**
 
 
 
@@ -122,3 +126,19 @@
 
 ### WireFrames y Storyboards
 
+#### Wireframe de introducción
+
+![Introducción](./Resources/Invernadero/Introduccion.jpg)
+
+#### Wireframe de secuencia, transparencia y georeferenciación
+
+![Secuencia](./Resources/Invernadero/Secuencia.jpg)
+
+#### Storyboard de corte domo
+
+![StoryCorteDomo](./Resources/Invernadero/CorteDomo.jpg)
+
+
+#### Storyboard de corte planeta
+
+![StoryCortePlaneta](./Resources/Invernadero/CortePlaneta.jpg)

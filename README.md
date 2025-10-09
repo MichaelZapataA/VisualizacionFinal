@@ -75,37 +75,48 @@
 
 **[Arquitectura de datos (Nueva versión)](https://drive.google.com/file/d/17g2YHbO9tuEGWbcMfCWcwmXAD8XiVf8k/view?usp=sharing)**
 
+
+
 <br>
 
-> _Prueba de arquitectura de forma más visual (PseudoWireframes)_ 
+> _Prueba de arquitectura de forma más visual_ 
 > 
-> ![Referencia](./Resources/Invernadero/ArquitecturaVisual.jpg)
+> ![Arquitectura Visual](./Resources/Invernadero/ArquitecturaVisual.jpg)
 
 
+> _Arquitectura Final_ 
+> 
+> <picture>
+>  <source media="(prefers-color-scheme: dark)" srcset="./Resources/Invernadero/ArquitecturaInvernadero.png">
+> 
+>   <img alt="Arquitectura" src="./Resources/Invernadero/ArquitecturaInvernaderoOscuro.png">
+> </picture>  
 
-**Guión:**
+<br>
 
-Empezamos la visualización con un menú de inicio donde se ven 3 botones y un planeta oscuro rotando a su lado.
-
-Si se presiona el botón de salir se cierra la aplicación.
-
-Si se presiona el botón de créditos se muestra la cinemática de créditos y luego regresa al inicio.
-
-Si se presiona el botón de iniciar se inicia la cinemática de introducción donde se da una breve descripción del proyecto seguido por datos relevantes del planeta donde vamos a simular la exploración de los invernaderos.
-
-Luego de la introducción se hace un despiece del planeta, hay un botón que permite hacer un corte del planeta para ver las rutas y caminos internos del planeta y un botón para ver la cronología de las estaciones y visualizar en qué momento del año estamos.
-
-Si se da click al invernadero que hay activado por medio de la georeferenciación se hace un acercamiento al mismo donde se muestra de mejor manera las partes de este.
-
-Se permite visualizar las componentes del domo por medio de una explosión y despiece donde se evidencia el regulador de luz, de temperatura, de ventilación, etc.
-
-Hay un slider donde se puede hacer transparencia del domo y acceder a los elementos dentro del invernadero. 
-
-Al darle a una plantación se inicia la secuencia de siembra donde se le muestra al usuario los pasos a seguir para este proceso, seguido de una transparencia en los tubos donde se muestra el proceso de recolección y almacenamiento.
-
-Ya en la zona de almacenamiento se muestran con una simulación de gráficos de barras cuanta cosecha se tiene de cada tipo y hay un botón  para regresar al invernadero e ir a las demás zonas.
-
-~~Al darle a la zona de limpieza y desinfección, se mostraría por medio de una explosión y despiece las diferentes partes que componen los elementos de la ducha y zona de desinfección para luego volver al invernadero.~~ (Opcional)
+> **Guión:**
+> 
+> Empezamos la visualización con un menú de inicio donde se ven 3 botones y un planeta oscuro rotando a su lado.
+> 
+> Si se presiona el botón de salir se cierra la aplicación.
+> 
+> Si se presiona el botón de créditos se muestra la cinemática de créditos y luego regresa al inicio.
+> 
+> Si se presiona el botón de iniciar se inicia la cinemática de introducción donde se da una breve descripción del proyecto seguido por datos relevantes del planeta donde vamos a simular la exploración de los invernaderos.
+> 
+> Luego de la introducción se hace un despiece del planeta, hay un botón que permite hacer un corte del planeta para ver las rutas y caminos internos del planeta y un botón para ver la cronología de las estaciones y visualizar en qué momento del año estamos.
+> 
+> Si se da click al invernadero que hay activado por medio de la georeferenciación se hace un acercamiento al mismo donde se muestra de mejor manera las partes de este.
+> 
+> Se permite visualizar las componentes del domo por medio de una explosión y despiece donde se evidencia el regulador de luz, de temperatura, de ventilación, etc.
+> 
+> Hay un slider donde se puede hacer transparencia del domo y acceder a los elementos dentro del invernadero. 
+> 
+> Al darle a una plantación se inicia la secuencia de siembra donde se le muestra al usuario los pasos a seguir para este proceso, seguido de una transparencia en los tubos donde se muestra el proceso de recolección y almacenamiento.
+> 
+> Ya en la zona de almacenamiento se muestran con una simulación de gráficos de barras cuanta cosecha se tiene de cada tipo y hay un botón  para regresar al invernadero e ir a las demás zonas.
+> 
+> ~~Al darle a la zona de limpieza y desinfección, se mostraría por medio de una explosión y despiece las diferentes partes que componen los elementos de la ducha y zona de desinfección para luego volver al invernadero.~~ (Opcional)
 
 
 

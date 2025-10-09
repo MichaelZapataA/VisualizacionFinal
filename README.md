@@ -58,8 +58,12 @@
 
 > ![Moodboard1](./Resources/Idea3/Moodboard1.jpg)
 > ![Moodboard2](./Resources/Idea3/Moodboard2.jpg)
+---
 
-### Desarrollo idea invernadero
+# GreenSpace
+
+## Desarrollo idea invernadero
+
 
 > **Investigación:**
 >
@@ -86,15 +90,11 @@
 
 > _Arquitectura Final_ 
 > 
-> <picture>
->  <source media="(prefers-color-scheme: dark)" srcset="./Resources/Invernadero/ArquitecturaInvernadero.png">
-> 
->   <img alt="Arquitectura" src="./Resources/Invernadero/ArquitecturaInvernaderoOscuro.png">
-> </picture>  
+> ![Arquitectura](./Resources/Invernadero/ArquitecturaInvernadero.png)
 
 <br>
 
-> **Guión:**
+> **Guión infográfico:**
 > 
 > Empezamos la visualización con un menú de inicio donde se ven 3 botones y un planeta oscuro rotando a su lado.
 > 
@@ -118,7 +118,7 @@
 > 
 > ~~Al darle a la zona de limpieza y desinfección, se mostraría por medio de una explosión y despiece las diferentes partes que componen los elementos de la ducha y zona de desinfección para luego volver al invernadero.~~ (Opcional)
 
+---
 
-
-
+### WireFrames y Storyboards
 

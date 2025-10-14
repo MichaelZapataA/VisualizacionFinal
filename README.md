@@ -145,4 +145,15 @@
 
 ### Moodboards
 
-https://www.figma.com/board/MIE1GjCLSxgF18wi7tu9yV/Greenspace?node-id=0-1&t=fntQOpoKVYrK1nyC-1
+**[Link de figma](https://www.figma.com/board/MIE1GjCLSxgF18wi7tu9yV/Greenspace?node-id=0-1&t=fntQOpoKVYrK1nyC-1)**
+#### Moodboard de modelado
+
+![MoodboardModelado](./Resources/Invernadero/ModeladoMoodboard.png)
+
+#### Moodboard de iconografía
+
+![MoodboardIconos](./Resources/Invernadero/IconosMoodboard.png)
+
+#### Moodboard de fuentes
+
+![MoodboardFuentes](./Resources/Invernadero/FuentesMoodboard.png)

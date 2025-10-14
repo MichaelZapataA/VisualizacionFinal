@@ -161,3 +161,9 @@
 #### Estudios tipográficos y GUI
 
 **[Link a Canva](https://www.canva.com/design/DAGoJDVaSXs/PF2KkxQj8O_NQLTLEjGL4g/view?utm_content=DAGoJDVaSXs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h161edeccff)**
+
+### Bocetos lenguaje visual
+
+#### Boceto botones
+
+![BocetosHannah](./Resources/Invernadero/Boceto.png)

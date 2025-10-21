@@ -174,3 +174,7 @@
 
 > Pruebas modelo planeta
 > ![PruebaModeloMajo](./Resources/Invernadero/PruebaPlaneta.jpg)
+
+### Interfaz Grafica
+
+https://www.figma.com/design/QINaMovDD8pT7MZwPVrRyi/Interfaz---visualizaci%C3%B3n?node-id=0-1&t=MK4dqD1y82cDYIN5-1

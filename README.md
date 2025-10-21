@@ -177,4 +177,7 @@
 
 ### Interfaz Grafica
 
-https://www.figma.com/design/QINaMovDD8pT7MZwPVrRyi/Interfaz---visualizaci%C3%B3n?node-id=0-1&t=MK4dqD1y82cDYIN5-1
+[Link a Figma con las interfaces](https://www.figma.com/design/QINaMovDD8pT7MZwPVrRyi/Interfaz---visualizaci%C3%B3n?node-id=0-1&t=MK4dqD1y82cDYIN5-1)
+
+> [!NOTE]
+> Durante la clase trabajamos sobre los mismos links actualizandolos

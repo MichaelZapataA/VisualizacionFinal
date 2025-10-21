@@ -10,6 +10,9 @@ public class PlanetaFlotante : MonoBehaviour
     [Tooltip("Velocidad para volver a la rotación original cuando se detiene.")]
     public float velocidadVuelta = 2.0f;
 
+    [Tooltip("Desfase inicial de rotación para evitar que todos los planetas giren igual.")]
+    public Quaternion desfaseRotacion = Quaternion.Euler(0, 15, 0);
+
     [Header("Configuración de Flotación")]
     [Tooltip("Velocidad del movimiento vertical (qué tan rápido sube y baja).")]
     public float velocidadFlotacion = 1.0f;
@@ -27,7 +30,7 @@ public class PlanetaFlotante : MonoBehaviour
     {
         // Guardamos las posiciones iniciales
         posicionInicial = transform.localPosition;
-        rotacionInicial = transform.localRotation;
+        rotacionInicial = transform.localRotation * desfaseRotacion;
     }
 
     void Update()

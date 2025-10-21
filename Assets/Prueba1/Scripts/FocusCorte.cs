@@ -160,7 +160,6 @@ public class FocusControl : MonoBehaviour
 
     IEnumerator AnimateSlider(float targetValue)
     {
-        float tiempo = 0;
         float valorInicio = sliderDelPlaneta.value;
         float rango = sliderDelPlaneta.maxValue - sliderDelPlaneta.minValue;
         

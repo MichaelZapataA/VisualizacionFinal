@@ -167,3 +167,10 @@
 #### Boceto botones
 
 ![BocetosHannah](./Resources/Invernadero/Boceto.png)
+
+### Pruebas
+
+[Link a pruebas de unity](https://play.unity.com/en/games/b9e95931-232f-4551-ba47-335adfede6ea/v01-visualizacion)
+
+> Pruebas modelo planeta
+> ![PruebaModeloMajo](./Resources/Invernadero/PruebaPlaneta.jpg)
